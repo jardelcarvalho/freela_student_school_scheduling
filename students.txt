@@ -1,0 +1,240 @@
+Student 1
+Period 1: GLOBAL 9 - Section 1 - Parker
+Period 2: CIVICS - Section 2 - Parker
+Period 3: RESTORATIVE JUSTICE 1 - Section 1 - Gupta
+Period 4: HEALTH - Section 1 - Gupta
+Period 5: Lunch
+Period 6: LIVING ENVIRONMENT - Section 2 - Bradley
+Period 7: ENGLISH 9 - Section 1 - Lee
+Period 8: ALGEBRA I - Section 1 - Morris
+Missed classes: PE 1
+
+
+Student 2
+Period 1: GLOBAL 9 - Section 1 - Parker
+Period 2: PE 1 - Section 2 - Gupta
+Period 3: COMPUTER SCIENCE - Section 1 - Morris
+Period 4: RESTORATIVE JUSTICE 1 - Section 2 - Lee
+Period 5: Lunch
+Period 6: GEOMETRY - Section 1 - Morris
+Period 7: ENGLISH 9 - Section 1 - Lee
+Period 8: CHEMISTRY - Section 1 - Bradley
+Missed classes: CIVICS
+
+
+Student 3
+Period 1: PE 3 - Section 1 - Gupta
+Period 2: JAPANESE 1 - Section 1 - Hilgen
+Period 3: ENGLISH 10 - Section 1 - Lee
+Period 4: HEALTH - Section 1 - Gupta
+Period 5: Lunch
+Period 6: GEOMETRY - Section 1 - Morris
+Period 7: RESTORATIVE JUSTICE 2 - Section 1 - Morris
+Period 8: CHEMISTRY - Section 1 - Bradley
+Missed classes: GLOBAL 9
+
+
+Student 4
+Period 1: GLOBAL 9 - Section 1 - Parker
+Period 2: PE 1 - Section 2 - Gupta
+Period 3: COMPUTER SCIENCE - Section 1 - Morris
+Period 4: RESTORATIVE JUSTICE 1 - Section 2 - Lee
+Period 5: Lunch
+Period 6: LIVING ENVIRONMENT - Section 2 - Bradley
+Period 7: ENGLISH 9 - Section 1 - Lee
+Period 8: ALGEBRA I - Section 1 - Morris
+Missed classes: CIVICS
+
+
+Student 5
+Period 1: HEALTH - Section 2 - Bradley
+Period 2: JAPANESE 1 - Section 1 - Hilgen
+Period 3: ENGLISH 10 - Section 1 - Lee
+Period 4: LIVING ENVIRONMENT - Section 1 - Bradley
+Period 5: Lunch
+Period 6: GEOMETRY - Section 1 - Morris
+Period 7: RESTORATIVE JUSTICE 2 - Section 1 - Morris
+Period 8: GLOBAL 10 - Section 1 - Parker
+Missed classes: PE 3
+
+
+Student 6
+Period 1: ALGEBRA I - Section 2 - Morris
+Period 2: CIVICS - Section 2 - Parker
+Period 3: COMPUTER SCIENCE - Section 1 - Morris
+Period 4: RESTORATIVE JUSTICE 1 - Section 2 - Lee
+Period 5: Lunch
+Period 6: GLOBAL 9 - Section 2 - Parker
+Period 7: ENGLISH 9 - Section 1 - Lee
+Period 8: CHEMISTRY - Section 1 - Bradley
+Missed classes: PE 1
+
+
+Student 7
+Period 1: ALGEBRA I - Section 2 - Morris
+Period 2: CIVICS - Section 2 - Parker
+Period 3: RESTORATIVE JUSTICE 1 - Section 1 - Gupta
+Period 4: LIVING ENVIRONMENT - Section 1 - Bradley
+Period 5: Lunch
+Period 6: GLOBAL 9 - Section 2 - Parker
+Period 7: ENGLISH 9 - Section 1 - Lee
+Period 8: PE 1 - Section 1 - Gupta
+Missed classes: HEALTH
+
+
+Student 8
+Period 1: GLOBAL 9 - Section 1 - Parker
+Period 2: CIVICS - Section 2 - Parker
+Period 3: COMPUTER SCIENCE - Section 1 - Morris
+Period 4: LIVING ENVIRONMENT - Section 1 - Bradley
+Period 5: Lunch
+Period 6: GEOMETRY - Section 1 - Morris
+Period 7: ENGLISH 9 - Section 1 - Lee
+Period 8: PE 1 - Section 1 - Gupta
+Missed classes: RESTORATIVE JUSTICE 1
+
+
+Student 9
+Period 1: GLOBAL 9 - Section 1 - Parker
+Period 2: CIVICS - Section 2 - Parker
+Period 3: COMPUTER SCIENCE - Section 1 - Morris
+Period 4: RESTORATIVE JUSTICE 1 - Section 2 - Lee
+Period 5: Lunch
+Period 6: LIVING ENVIRONMENT - Section 2 - Bradley
+Period 7: ENGLISH 9 - Section 1 - Lee
+Period 8: PE 1 - Section 1 - Gupta
+Missed classes: ALGEBRA I
+
+
+Student 10
+Period 1: PE 3 - Section 1 - Gupta
+Period 2: JAPANESE 1 - Section 1 - Hilgen
+Period 3: ENGLISH 10 - Section 1 - Lee
+Period 4: LIVING ENVIRONMENT - Section 1 - Bradley
+Period 5: Lunch
+Period 6: GLOBAL 9 - Section 2 - Parker
+Period 7: RESTORATIVE JUSTICE 2 - Section 1 - Morris
+Period 8: ALGEBRA I - Section 1 - Morris
+Missed classes: HEALTH
+
+
+Student 11
+Period 1: GLOBAL 9 - Section 1 - Parker
+Period 2: CIVICS - Section 2 - Parker
+Period 3: COMPUTER SCIENCE - Section 1 - Morris
+Period 4: RESTORATIVE JUSTICE 1 - Section 2 - Lee
+Period 5: Lunch
+Period 6: LIVING ENVIRONMENT - Section 2 - Bradley
+Period 7: ENGLISH 9 - Section 1 - Lee
+Period 8: ALGEBRA I - Section 1 - Morris
+Missed classes: PE 1
+
+
+Student 12
+Period 1: GLOBAL 9 - Section 1 - Parker
+Period 2: CIVICS - Section 2 - Parker
+Period 3: COMPUTER SCIENCE - Section 1 - Morris
+Period 4: LIVING ENVIRONMENT - Section 1 - Bradley
+Period 5: Lunch
+Period 6: GEOMETRY - Section 1 - Morris
+Period 7: ENGLISH 9 - Section 1 - Lee
+Period 8: PE 1 - Section 1 - Gupta
+Missed classes: RESTORATIVE JUSTICE 1
+
+
+Student 13
+Period 1: PE 3 - Section 1 - Gupta
+Period 2: JAPANESE 1 - Section 1 - Hilgen
+Period 3: ENGLISH 10 - Section 1 - Lee
+Period 4: HEALTH - Section 1 - Gupta
+Period 5: Lunch
+Period 6: GEOMETRY - Section 1 - Morris
+Period 7: RESTORATIVE JUSTICE 2 - Section 1 - Morris
+Period 8: CHEMISTRY - Section 1 - Bradley
+Missed classes: GLOBAL 10
+
+
+Student 14
+Period 1: GLOBAL 9 - Section 1 - Parker
+Period 2: PE 1 - Section 2 - Gupta
+Period 3: RESTORATIVE JUSTICE 1 - Section 1 - Gupta
+Period 4: HEALTH - Section 1 - Gupta
+Period 5: Lunch
+Period 6: LIVING ENVIRONMENT - Section 2 - Bradley
+Period 7: ENGLISH 9 - Section 1 - Lee
+Period 8: ALGEBRA I - Section 1 - Morris
+Missed classes: CIVICS
+
+
+Student 15
+Period 1: ALGEBRA I - Section 2 - Morris
+Period 2: CIVICS - Section 2 - Parker
+Period 3: COMPUTER SCIENCE - Section 1 - Morris
+Period 4: RESTORATIVE JUSTICE 1 - Section 2 - Lee
+Period 5: Lunch
+Period 6: GLOBAL 9 - Section 2 - Parker
+Period 7: ENGLISH 9 - Section 1 - Lee
+Period 8: PE 1 - Section 1 - Gupta
+Missed classes: CHEMISTRY
+
+
+Student 16
+Period 1: HEALTH - Section 2 - Bradley
+Period 2: JAPANESE 1 - Section 1 - Hilgen
+Period 3: ENGLISH 10 - Section 1 - Lee
+Period 4: US HISTORY - Section 1 - Parker
+Period 5: Lunch
+Period 6: GEOMETRY - Section 1 - Morris
+Period 7: RESTORATIVE JUSTICE 2 - Section 1 - Morris
+Period 8: CHEMISTRY - Section 1 - Bradley
+Missed classes: PE 3
+
+
+Student 17
+Period 1: GLOBAL 9 - Section 1 - Parker
+Period 2: CIVICS - Section 2 - Parker
+Period 3: COMPUTER SCIENCE - Section 1 - Morris
+Period 4: RESTORATIVE JUSTICE 1 - Section 2 - Lee
+Period 5: Lunch
+Period 6: GEOMETRY - Section 1 - Morris
+Period 7: ENGLISH 9 - Section 1 - Lee
+Period 8: PE 1 - Section 1 - Gupta
+Missed classes: LIVING ENVIRONMENT
+
+
+Student 18
+Period 1: HEALTH - Section 2 - Bradley
+Period 2: JAPANESE 1 - Section 1 - Hilgen
+Period 3: ENGLISH 10 - Section 1 - Lee
+Period 4: US HISTORY - Section 1 - Parker
+Period 5: Lunch
+Period 6: GEOMETRY - Section 1 - Morris
+Period 7: RESTORATIVE JUSTICE 2 - Section 1 - Morris
+Period 8: CHEMISTRY - Section 1 - Bradley
+Missed classes: PE 3
+
+
+Student 19
+Period 1: PE 3 - Section 1 - Gupta
+Period 2: JAPANESE 1 - Section 1 - Hilgen
+Period 3: ENGLISH 10 - Section 1 - Lee
+Period 4: US HISTORY - Section 1 - Parker
+Period 5: Lunch
+Period 6: LIVING ENVIRONMENT - Section 2 - Bradley
+Period 7: RESTORATIVE JUSTICE 2 - Section 1 - Morris
+Period 8: ALGEBRA I - Section 1 - Morris
+Missed classes: HEALTH
+
+
+Student 20
+Period 1: GLOBAL 9 - Section 1 - Parker
+Period 2: CIVICS - Section 2 - Parker
+Period 3: RESTORATIVE JUSTICE 1 - Section 1 - Gupta
+Period 4: HEALTH - Section 1 - Gupta
+Period 5: Lunch
+Period 6: LIVING ENVIRONMENT - Section 2 - Bradley
+Period 7: ENGLISH 9 - Section 1 - Lee
+Period 8: PE 1 - Section 1 - Gupta
+Missed classes: ALGEBRA I
+
+

@@ -1,0 +1,66 @@
+Morris
+Period 1: ALGEBRA I - Section 2
+Period 2: Free Period
+Period 3: COMPUTER SCIENCE - Section 1
+Period 4: Free Period
+Period 5: Lunch
+Period 6: GEOMETRY - Section 1
+Period 7: RESTORATIVE JUSTICE 2 - Section 1
+Period 8: ALGEBRA I - Section 1
+
+
+Bradley
+Period 1: HEALTH - Section 2
+Period 2: Free Period
+Period 3: Free Period
+Period 4: LIVING ENVIRONMENT - Section 1
+Period 5: Lunch
+Period 6: LIVING ENVIRONMENT - Section 2
+Period 7: Free Period
+Period 8: CHEMISTRY - Section 1
+
+
+Gupta
+Period 1: PE 3 - Section 1
+Period 2: PE 1 - Section 2
+Period 3: RESTORATIVE JUSTICE 1 - Section 1
+Period 4: HEALTH - Section 1
+Period 5: Lunch
+Period 6: Free Period
+Period 7: Free Period
+Period 8: PE 1 - Section 1
+
+
+Parker
+Period 1: GLOBAL 9 - Section 1
+Period 2: CIVICS - Section 2
+Period 3: Free Period
+Period 4: US HISTORY - Section 1
+Period 5: Lunch
+Period 6: GLOBAL 9 - Section 2
+Period 7: Free Period
+Period 8: GLOBAL 10 - Section 1
+
+
+Hilgen
+Period 1: Free Period
+Period 2: JAPANESE 1 - Section 1
+Period 3: Free Period
+Period 4: Free Period
+Period 5: Lunch
+Period 6: Free Period
+Period 7: Free Period
+Period 8: Free Period
+
+
+Lee
+Period 1: Free Period
+Period 2: ENGLISH 9 - Section 2
+Period 3: ENGLISH 10 - Section 1
+Period 4: RESTORATIVE JUSTICE 1 - Section 2
+Period 5: Lunch
+Period 6: Free Period
+Period 7: ENGLISH 9 - Section 1
+Period 8: Free Period
+
+
